@@ -1,0 +1,18 @@
+Music	3311529
+Entertainment	1741316
+People & Blogs	1037898
+Gaming	897123
+Comedy	628386
+Sports	315450
+News & Politics	268625
+Film & Animation	263803
+Howto & Style	228130
+Education	160865
+Nonprofits & Activism	115548
+Science & Technology	107900
+Autos & Vehicles	44627
+Travel & Events	44326
+Pets & Animals	35092
+Shows	23123
+Movies	593
+Trailers	411
